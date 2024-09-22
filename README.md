@@ -13,3 +13,7 @@ from rishu_scraping import rishu_scraping
 data=rishu_scraping()
 print(data)
 ```
+
+## 注意事項
+
+今後破壊的変更を加える可能性があります。ご了承ください。
