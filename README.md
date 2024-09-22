@@ -6,6 +6,10 @@
 
 rishu_scraping.pyをDLして適当なところに配置。
 
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 
 ```python
